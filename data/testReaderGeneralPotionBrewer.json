@@ -1,0 +1,45 @@
+{
+    "book list": [{
+        "ingredient": {"name": "Snake Venom"},
+        "price": 10,
+        "name": "Snake Venom",
+        "type": "Ingredient"
+    }],
+    "money": {"money": 5},
+    "potion list": [{
+        "sell price": 7,
+        "num": 1,
+        "name": "Elixir of the Sheep"
+    }],
+    "ingredient list": [
+        {"name": "Pond Water"},
+        {"name": "Sheep Horn"},
+        {"name": "Bat Vomit"}
+    ],
+    "recipe list": [
+        {
+            "cost": 3,
+            "name": "Draught of Sewage",
+            "ingredient 2": {"name": "Bat Vomit"},
+            "ingredient 1": {"name": "Pond Water"}
+        },
+        {
+            "cost": 5,
+            "name": "Elixir of the Sheep",
+            "ingredient 2": {"name": "Sheep Horn"},
+            "ingredient 1": {"name": "Pond Water"}
+        },
+        {
+            "cost": 7,
+            "name": "Horned Vomit Potion",
+            "ingredient 2": {"name": "Bat Vomit"},
+            "ingredient 1": {"name": "Sheep Horn"}
+        },
+        {
+            "cost": 10,
+            "name": "Mixture of Toxins",
+            "ingredient 2": {"name": "Snake Venom"},
+            "ingredient 1": {"name": "Pond Water"}
+        }
+    ]
+}
